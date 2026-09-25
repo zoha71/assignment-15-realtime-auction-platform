@@ -7,7 +7,7 @@ A mission-critical, low-latency **Real-Time Live Auction & Bidding Platform** bu
 ## 🏛️ Live Trading Floor Architecture
 
 ```
-assignment-15-auction-socket/ (Kartik_Wagh/)
+assignment-15-auction-socket/ (zohashaikh/)
 ├── public/
 │   ├── index.html        # Prestige auction house live floor UI
 │   ├── app.js            # Client Socket.io events, Web Audio synthesizer & desk logic
